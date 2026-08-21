@@ -1,0 +1,4 @@
+{
+  "_comment": "Frozen structural declaration, compiled at intake, frozen at sign-off. EXACTLY four structural facts per stage: id, deps (stage ids read from), artifacts (shipped/load-bearing outputs only - stage outputs consumed downstream, gate evidence, report figures; scratch plots/caches/diagnostics are NOT declared), expectations (IDs owned by this stage; parent/child IDs like E4.4a are registered individually, exact-match). Nothing else lives here: bands/ceilings -> ACCEPTABILITY.md, criteria -> gate files, wording/change notes -> the prose stage map, results -> artifacts/*/expectations.json, rulings -> ledgers/RULINGS.md. Checked by scripts/verify_structure.py. module: source file implementing the stage.",
+  "stages": []
+}
